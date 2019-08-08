@@ -27,7 +27,12 @@ SW Expert Academy(swexpertacademy.com)
 |  1193   |         [분수찾기](https://www.acmicpc.net/problem/1193)          | [c](baekjoon/1193.c)  |  1237   |          [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237)          | [cpp](baekjoon/1237.cpp)  |
 |  1260   |         [DFS와 BFS](https://www.acmicpc.net/problem/1260)          | [java](baekjoon/1260.java)  |  1316   |          [그룹 단어 체커](https://www.acmicpc.net/problem/1316)          | [c](baekjoon/1316.c)  |
 |  1330   |         [두 수 비교하기](https://www.acmicpc.net/problem/1330)          | [Python3](baekjoon/1330.py)  |  1331   |          [나이트 투어](https://www.acmicpc.net/problem/1331)          | [java](baekjoon/1331.java)  |
+|  1427   |         [소트인사이드](https://www.acmicpc.net/problem/1427)          | [c](baekjoon/1427.c)  |  1463   |          [1로 만들기](https://www.acmicpc.net/problem/1463)          | [c](baekjoon/1463.java)  |
 |  1475   |         [방 번호](https://www.acmicpc.net/problem/1475)          | [c](baekjoon/1475.c) [java](baekjoon/1475.java)  |  1541   |          [잃어버린 괄호](https://www.acmicpc.net/problem/1541)          | [Node.js](baekjoon/1541.js)  |
+|  1546   |         [평균](https://www.acmicpc.net/problem/1546)          | [cpp](baekjoon/1546.cpp)  |  1547   |          [공](https://www.acmicpc.net/problem/1547)          | [c](baekjoon/1547.c)  |
+|  1676   |         [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)          | [c](baekjoon/1676.c)  |  1697   |          [숨바꼭질](https://www.acmicpc.net/problem/1697)          | [java](baekjoon/1697.java)  |
+|  1924   |         [2007년](https://www.acmicpc.net/problem/1924)          | [cpp](baekjoon/1924.cpp)  |  1927   |          [최소 힙](https://www.acmicpc.net/problem/1927)          | [java](baekjoon/1927.java)  |
+|  1978   |         [소수 찾기](https://www.acmicpc.net/problem/1978)          | [c](baekjoon/1978.c)  |  2156   |          [포도주 시식](https://www.acmicpc.net/problem/2156)          | [c](baekjoon/2156.c)  |
 |  7326   |         [Number Steps](https://www.acmicpc.net/problem/7326)          | [c](baekjoon/7326.c)  |  413565  |          [침투](https://www.acmicpc.net/problem/13565)          | [cpp](baekjoon/13565.cpp)  |
 
 
