@@ -33,7 +33,8 @@ SW Expert Academy(swexpertacademy.com)
 |  1676   |         [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)          | [c](baekjoon/1676.c)  |  1697   |          [숨바꼭질](https://www.acmicpc.net/problem/1697)          | [java](baekjoon/1697.java)  |
 |  1924   |         [2007년](https://www.acmicpc.net/problem/1924)          | [cpp](baekjoon/1924.cpp)  |  1927   |          [최소 힙](https://www.acmicpc.net/problem/1927)          | [java](baekjoon/1927.java)  |
 |  1978   |         [소수 찾기](https://www.acmicpc.net/problem/1978)          | [c](baekjoon/1978.c)  |  2156   |          [포도주 시식](https://www.acmicpc.net/problem/2156)          | [c](baekjoon/2156.c)  |
-|  7326   |         [Number Steps](https://www.acmicpc.net/problem/7326)          | [c](baekjoon/7326.c)  |  413565  |          [침투](https://www.acmicpc.net/problem/13565)          | [cpp](baekjoon/13565.cpp)  |
+|  7326   |         [Number Steps](https://www.acmicpc.net/problem/7326)          | [c](baekjoon/7326.c)  |  10818  |          [최소, 최대](https://www.acmicpc.net/problem/10818)          | [Node.js](baekjoon/10818.js)  |
+|  10872   |         [팩토리얼](https://www.acmicpc.net/problem/10872)          | [Ocaml](baekjoon/10872.ml)  |  13565  |          [침투](https://www.acmicpc.net/problem/13565)          | [cpp](baekjoon/13565.cpp)  |
 
 
 </details>
