@@ -39,8 +39,15 @@ SW Expert Academy(swexpertacademy.com)
 |  2292   |         [벌집](https://www.acmicpc.net/problem/2292)          | [c](baekjoon/2292.c)  |  2309   |          [일곱 난쟁이](https://www.acmicpc.net/problem/2309)          | [c](baekjoon/2309.c)  |
 |  2438   |         [별 찍기 - 1](https://www.acmicpc.net/problem/2438)          | [c](baekjoon/2438.c)  |  2439   |          [별 찍기 - 2](https://www.acmicpc.net/problem/2439)          | [c](baekjoon/2439.c)  |
 |  2440   |         [별 찍기 - 3](https://www.acmicpc.net/problem/2440)          | [c](baekjoon/2440.c)  |  2441   |          [별 찍기 - 4](https://www.acmicpc.net/problem/2441)          | [c](baekjoon/2441.c)  |
-|  2447   |         [별 찍기 - 10](https://www.acmicpc.net/problem/2447)          | [Python3](baekjoon/2447.py)  |
-|  2562   |         [최댓값](https://www.acmicpc.net/problem/2562)          | [Node.js](baekjoon/2562.js)  |  2798   |          [블랙잭](https://www.acmicpc.net/problem/2798)          | [java](baekjoon/2798.java)  |
+|  2444   |          [별 찍기 - 7](https://www.acmicpc.net/problem/2444)          | [Python 2](baekjoon/2444.py)  |  2447   |         [별 찍기 - 10](https://www.acmicpc.net/problem/2447)          | [Python3](baekjoon/2447.py)  |
+|  2455   |          [지능형 기차](https://www.acmicpc.net/problem/2455)          | [c](baekjoon/2455.c)  |  2458   |         [키 순서](https://www.acmicpc.net/problem/2458)          | [java](baekjoon/2458.java)  |
+|  2475   |          [검증수](https://www.acmicpc.net/problem/2475)          | [c](baekjoon/2475.c)  |  2480   |         [주사위 세개](https://www.acmicpc.net/problem/2480)          | [c](baekjoon/2480.c)  |
+|  2490   |          [윷놀이](https://www.acmicpc.net/problem/2490)          | [c](baekjoon/2490.c)  |  2493   |         [탑](https://www.acmicpc.net/problem/2493)          | [java](baekjoon/2493.java)  |
+|  2504   |          [괄호의 값](https://www.acmicpc.net/problem/2504)          | [java](baekjoon/2504.java)  |  2531   |         [회전 초밥](https://www.acmicpc.net/problem/2531)          | [java](baekjoon/2531.java)  |
+|  2557   |          [Hello World](https://www.acmicpc.net/problem/2557)          | [cpp(Clang)](baekjoon/2557.cpp)  |  2558   |         [A+B - 2](https://www.acmicpc.net/problem/2558)          | [cpp](baekjoon/2558.cpp)  |
+|  2562   |         [최댓값](https://www.acmicpc.net/problem/2562)          | [Node.js](baekjoon/2562.js)  |  2577   |          [숫자의 개수](https://www.acmicpc.net/problem/2577)          | [cpp](baekjoon/2577.cpp)  |
+|  2581   |         [소수](https://www.acmicpc.net/problem/2581)          | [c](baekjoon/2581.c)  |  2588   |          [곱셈](https://www.acmicpc.net/problem/2588)          | [Node.js](baekjoon/2588.js)  |
+|  2798   |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [java](baekjoon/2798.java)  |  2839   |          [설탕 배달](https://www.acmicpc.net/problem/2839)          | [cpp](baekjoon/2839.cpp)  |
 |  2869   |         [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)          | [Python3](baekjoon/2869.py)  |  3052   |          [나머지](https://www.acmicpc.net/problem/3052)          | [Node.js](baekjoon/3052.js)  |
 |  7326   |         [Number Steps](https://www.acmicpc.net/problem/7326)          | [c](baekjoon/7326.c)  |  10818  |          [최소, 최대](https://www.acmicpc.net/problem/10818)          | [Node.js](baekjoon/10818.js)  |
 |  10872   |         [팩토리얼](https://www.acmicpc.net/problem/10872)          | [Ocaml](baekjoon/10872.ml)  |  11729   |         [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)          | [java](baekjoon/11729.java)  |
