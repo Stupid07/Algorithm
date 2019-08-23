@@ -47,6 +47,8 @@ SW Expert Academy(swexpertacademy.com)
 |  2557   |          [Hello World](https://www.acmicpc.net/problem/2557)          | [cpp(Clang)](baekjoon/2557.cpp)  |  2558   |         [A+B - 2](https://www.acmicpc.net/problem/2558)          | [cpp](baekjoon/2558.cpp)  |
 |  2562   |         [최댓값](https://www.acmicpc.net/problem/2562)          | [Node.js](baekjoon/2562.js)  |  2577   |          [숫자의 개수](https://www.acmicpc.net/problem/2577)          | [cpp](baekjoon/2577.cpp)  |
 |  2581   |         [소수](https://www.acmicpc.net/problem/2581)          | [c](baekjoon/2581.c)  |  2588   |          [곱셈](https://www.acmicpc.net/problem/2588)          | [Node.js](baekjoon/2588.js)  |
+|  2589   |         [보물섬](https://www.acmicpc.net/problem/2589)          | [java](baekjoon/2589.java)  |  2596   |          [비밀편지](https://www.acmicpc.net/problem/2596)          | [java](baekjoon/2596.java)  |
+|  2609   |         [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)          | [cpp](baekjoon/2609.cpp)  |  2615   |          [오목](https://www.acmicpc.net/problem/2615)          | [java](baekjoon/2615.java)  |
 |  2798   |         [블랙잭](https://www.acmicpc.net/problem/2798)          | [java](baekjoon/2798.java)  |  2839   |          [설탕 배달](https://www.acmicpc.net/problem/2839)          | [cpp](baekjoon/2839.cpp)  |
 |  2869   |         [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)          | [Python3](baekjoon/2869.py)  |  3052   |          [나머지](https://www.acmicpc.net/problem/3052)          | [Node.js](baekjoon/3052.js)  |
 |  7326   |         [Number Steps](https://www.acmicpc.net/problem/7326)          | [c](baekjoon/7326.c)  |  10818  |          [최소, 최대](https://www.acmicpc.net/problem/10818)          | [Node.js](baekjoon/10818.js)  |
