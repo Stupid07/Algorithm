@@ -62,12 +62,13 @@ SW Expert Academy(swexpertacademy.com)
 프로그래머스(programmers.co.kr)
 ===============================
 
-Level 1
 -------
-<details close> <summary> 접기 / 펼치기 </summary>
+<details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제 | 코드 | 번호 | 문제 | 코드 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| 레벨 | 분류 | 문제 | 코드 |
+|:-:|:-:|:-:|:-:|
+| Level 2 | 2018 윈터코딩 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](programmers/L2_49993.java) |
+| Level 2 | 찾아라 프로그래밍 마에스터 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](programmers/L2_1845.java) |
 
 </details>
 
