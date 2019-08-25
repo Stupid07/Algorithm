@@ -3,9 +3,9 @@
 
 ### README 양식 [tdm1223](https://github.com/tdm1223) 감사합니다.
 
-백준 온라인저지(acmicpc.net)  
-SW Expert Academy(swexpertacademy.com)  
-프로그래머스(programmers.co.kr)  
+백준 온라인저지([acmicpc.net](https://www.acmicpc.net))  
+SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do))  
+프로그래머스([programmers.co.kr](https://programmers.co.kr))  
 의 알고리즘 문제 풀이 저장소입니다.
 
 백준 온라인저지(acmicpc.net)
@@ -86,13 +86,19 @@ D4
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
 | 1210 | [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [java](swea/1210.java) |
+| 1824 | [혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx&categoryId=AV4yLUiKDUoDFAUx&categoryType=CODE) | [java](swea/1824.java) |
+| 1865 | [동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc&categoryId=AV5LuHfqDz8DFAXc&categoryType=CODE) | [java](swea/1865.java) |
+| 3074 | [입국심사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_XEokaAEcDFAX7&categoryId=AV_XEokaAEcDFAX7&categoryType=CODE) | [java](swea/3074.java) |
+| 3143 | [가장 빠른 문자열 타이핑](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS&categoryId=AV_65wkqsb4DFAWS&categoryType=CODE) | [java](swea/3143.java) |
 | 3234 | [준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw&categoryId=AWAe7XSKfUUDFAUw&categoryType=CODE) | [java](swea/3234.java) |
 | 3289 | [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE) | [java](swea/3289.java) |
+| 3378 | [스타일리쉬 들여쓰기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWD3nB5q3T0DFAUZ&categoryId=AWD3nB5q3T0DFAUZ&categoryType=CODE) | [java](swea/3378.java) |
 | 4261 | [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW&categoryId=AWLL7kaaAPsDFAUW&categoryType=CODE) | [java](swea/4261.java) |
 | 4366 | [정식이의 은행업무](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE) | [java](swea/4366.java) |
 | 4672 | [수진이의 팰린드롬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRKNev6fqYDFAV8&categoryId=AWRKNev6fqYDFAV8&categoryType=CODE) | [java](swea/4672.java) |
 | 4796 | [의석이의 우뚝 선 산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2h6AKBCoDFAVT&categoryId=AWS2h6AKBCoDFAVT&categoryType=CODE) | [java](swea/4796.java) |
 | 5672 | [올해의 조련사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRgX36gSIDFAUo&categoryId=AWXRgX36gSIDFAUo&categoryType=CODE) | [java](swea/5672.java) |
+| 7250 | [탈출 - User Problem](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlq-Cvq6joDFASP&categoryId=AWlq-Cvq6joDFASP&categoryType=CODE) | [java](swea/7250.java) |
 | 7829 | [보물왕 태혁](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy&categoryId=AWtInr3auH0DFASy&categoryType=CODE) | [java](swea/7829.java) |
 
 </details>
@@ -119,7 +125,10 @@ D5
 
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
+| 4012 | [요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE) | [java](swea/4012.java) |
+| 4014 | [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE) | [java](swea/4014.java) |
 | 5644 | [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE) | [java](swea/5644.java) |
+| 5656 | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE) | [java](swea/5656.java) |
 
 </details>
 
