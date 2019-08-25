@@ -63,6 +63,9 @@ SW Expert Academy(swexpertacademy.com)
 SW Expert Academy(swexpertacademy.com)
 ====================================== 
 
+- 사이트에서 제공하는 **문제 난이도(D3~D5/그 외)** 별로 정리하였습니다.
+- 문제를 보려면 해당 사이트에 로그인이 필요합니다.
+
 D3
 --
 
@@ -78,10 +81,19 @@ D3
 D4
 --
 
-<details close> <summary> 접기 / 펼치기 </summary>
+<details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제 | 코드 | 번호 | 문제 | 코드 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| 번호 | 문제 | 코드 |
+|:-:|:-:|:-:|
+| 1210 | [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [java](swea/1210.java) |
+| 3234 | [준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw&categoryId=AWAe7XSKfUUDFAUw&categoryType=CODE) | [java](swea/3234.java) |
+| 3289 | [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE) | [java](swea/3289.java) |
+| 4261 | [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW&categoryId=AWLL7kaaAPsDFAUW&categoryType=CODE) | [java](swea/4261.java) |
+| 4366 | [정식이의 은행업무](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE) | [java](swea/4366.java) |
+| 4672 | [수진이의 팰린드롬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRKNev6fqYDFAV8&categoryId=AWRKNev6fqYDFAV8&categoryType=CODE) | [java](swea/4672.java) |
+| 4796 | [의석이의 우뚝 선 산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2h6AKBCoDFAVT&categoryId=AWS2h6AKBCoDFAVT&categoryType=CODE) | [java](swea/4796.java) |
+| 5672 | [올해의 조련사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRgX36gSIDFAUo&categoryId=AWXRgX36gSIDFAUo&categoryType=CODE) | [java](swea/5672.java) |
+| 7829 | [보물왕 태혁](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy&categoryId=AWtInr3auH0DFASy&categoryType=CODE) | [java](swea/7829.java) |
 
 </details>
 
@@ -90,10 +102,24 @@ D4
 D5
 --
 
-<details close> <summary> 접기 / 펼치기 </summary>
+<details open> <summary> 접기 / 펼치기 </summary>
 
-| 번호 | 문제 | 코드 | 번호 | 문제 | 코드 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| 번호 | 문제 | 코드 |
+|:-:|:-:|:-:|
+| 1247 | [최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD&categoryId=AV15OZ4qAPICFAYD&categoryType=CODE) | [java](swea/1247.java) |
+
+</details>
+
+---
+
+모의 SW 역량테스트
+--
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제 | 코드 |
+|:-:|:-:|:-:|
+| 5644 | [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE) | [java](swea/5644.java) |
 
 </details>
 
@@ -102,7 +128,6 @@ D5
 프로그래머스(programmers.co.kr)
 ===============================
 
--------
 <details open> <summary> 접기 / 펼치기 </summary>
 
 | 레벨 | 분류 | 문제 | 코드 |
