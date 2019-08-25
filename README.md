@@ -64,8 +64,21 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 SW Expert Academy(swexpertacademy.com)
 ====================================== 
 
-- 사이트에서 제공하는 **문제 난이도(D2~D6, 모의)** 별로 정리하였습니다.
+- 사이트에서 제공하는 **문제 난이도(D1~D6, 모의)** 별로 정리하였습니다.
 - 문제를 보려면 해당 사이트에 로그인이 필요합니다.
+
+D1
+--
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제 | 코드 |
+|:-:|:-:|:-:|
+| 2063 | [중간값 찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE) | [java](swea/2063.java) |
+
+</details>
+
+---
 
 D2
 --
@@ -74,6 +87,7 @@ D2
 
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
+| 1204 | [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE) | [java](swea/1204.java) |
 | 2007 | [패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE) | [java](swea/2007.java) |
 
 </details>
@@ -87,12 +101,19 @@ D3
 
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
+| 1208 | [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh&categoryId=AV139KOaABgCFAYh&categoryType=CODE) | [java](swea/1208.java) |
 | 1213 | [String](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE) | [java](swea/1213.java) |
+| 1225 | [암호생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE) | [java](swea/1225.java) |
+| 1228 | [암호문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE) | [java](swea/1228.java) |
+| 1234 | [비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE) | [java](swea/1234.java) |
 | 1240 | [단순 2진 암호코드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD&categoryId=AV15FZuqAL4CFAYD&categoryType=CODE) | [java](swea/1240.java) |
 | 1244 | [최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE) | [java](swea/1244.java) |
+| 1289 | [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN&categoryId=AV19AcoKI9sCFAZN&categoryType=CODE) | [java](swea/1289.java) [Python](swea/1289.py) |
 | 1493 | [수의 새로운 연산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b-QGqADMBBASw&categoryId=AV2b-QGqADMBBASw&categoryType=CODE) | [java](swea/1493.java) |
 | 1873 | [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc&categoryId=AV5LyE7KD2ADFAXc&categoryType=CODE) | [java](swea/1873.java) |
 | 3307 | [최장 증가 부분 수열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr&categoryId=AWBOKg-a6l0DFAWr&categoryType=CODE) | [java](swea/3307.java) |
+| 5215 | [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE) | [java](swea/5215.java) |
+| 5431 | [민석이의 과제 체크하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl3rWKDBYDFAXm&categoryId=AWVl3rWKDBYDFAXm&categoryType=CODE) | [java](swea/5431.java) |
 | 5986 | [새샘이와 세 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWaJ3q8qV-4DFAUQ&categoryId=AWaJ3q8qV-4DFAUQ&categoryType=CODE) | [java](swea/5986.java) |
 | 6485 | [삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn&categoryId=AWczm7QaACgDFAWn&categoryType=CODE) | [java](swea/6485.java) |
 
@@ -108,6 +129,10 @@ D4
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
 | 1210 | [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [java](swea/1210.java) |
+| 1218 | [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD&categoryId=AV14eWb6AAkCFAYD&categoryType=CODE) | [java](swea/1218.java) |
+| 1223 | [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD&categoryId=AV14nnAaAFACFAYD&categoryType=CODE) | [java](swea/1223.java) |
+| 1224 | [계산기3](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD&categoryId=AV14tDX6AFgCFAYD&categoryType=CODE) | [java](swea/1224.java) |
+| 1231 | [중위순회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE) | [java](swea/1231.java) |
 | 1233 | [사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD&categoryId=AV141176AIwCFAYD&categoryType=CODE) | [java](swea/1233.java) |
 | 1238 | [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE) | [java](swea/1238.java) |
 | 1251 | [하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&categoryId=AV15StKqAQkCFAYD&categoryType=CODE) | [java](swea/1251.java) |
@@ -133,6 +158,7 @@ D4
 | 4672 | [수진이의 팰린드롬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRKNev6fqYDFAV8&categoryId=AWRKNev6fqYDFAV8&categoryType=CODE) | [java](swea/4672.java) |
 | 4796 | [의석이의 우뚝 선 산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2h6AKBCoDFAVT&categoryId=AWS2h6AKBCoDFAVT&categoryType=CODE) | [java](swea/4796.java) |
 | 5213 | [진수의 홀수 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-hF8KdBADFAVT&categoryId=AWT-hF8KdBADFAVT&categoryType=CODE) | [java](swea/5213.java) |
+| 5432 | [쇠막대기 자르기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm&categoryId=AWVl47b6DGMDFAXm&categoryType=CODE) | [java](swea/5432.java) |
 | 5672 | [올해의 조련사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRgX36gSIDFAUo&categoryId=AWXRgX36gSIDFAUo&categoryType=CODE) | [java](swea/5672.java) |
 | 6719 | [성수의 프로그래밍 강좌 시청](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWd7sgDatsMDFAUh&categoryId=AWd7sgDatsMDFAUh&categoryType=CODE) | [java](swea/6719.java) |
 | 7208 | [지도 칠하기 - User Problem](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlHcsEqf1YDFASG&categoryId=AWlHcsEqf1YDFASG&categoryType=CODE) | [java](swea/7208.java) |
