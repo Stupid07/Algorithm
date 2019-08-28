@@ -50,6 +50,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2581 | [소수](https://www.acmicpc.net/problem/2581) | [c](baekjoon/2581.c) | 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | [Node.js](baekjoon/2588.js) |
 | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | [java](baekjoon/2589.java) | 2596 | [비밀편지](https://www.acmicpc.net/problem/2596) | [java](baekjoon/2596.java) |
 | 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [cpp](baekjoon/2609.cpp) | 2615 | [오목](https://www.acmicpc.net/problem/2615) | [java](baekjoon/2615.java) |
+| 2628 | [종이자르기](https://www.acmicpc.net/problem/2628) | [java](baekjoon/2628.java) |
 | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | [java](baekjoon/2636.java) | 2638 | [치즈](https://www.acmicpc.net/problem/2638) | [java](baekjoon/2638.java) |
 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [c](baekjoon/2675.c) | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [c](baekjoon/2739.c) |
 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [java](baekjoon/2798.java) | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [cpp](baekjoon/2839.cpp) |
