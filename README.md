@@ -229,4 +229,6 @@ D6
 | Level 2 | 찾아라 프로그래밍 마에스터 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](programmers/L2_1845.java) |
 | Level ? | (2017년)KAKAO BLIND RECRUITMENT
  | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [java](programmers/kako_17676.java) |
+ | Level ? | (2017년)KAKAO BLIND RECRUITMENT
+ | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [java](programmers/kako_17682.java) |
 </details>
