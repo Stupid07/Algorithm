@@ -231,7 +231,9 @@ D6
  | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [java](programmers/kako_17676.java) |
  | Level ? | (2017년)KAKAO BLIND RECRUITMENT
  | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [java](programmers/kako_17682.java) |
-  | Level ? | (2017년)KAKAO BLIND RECRUITMENT
+| Level ? | (2017년)KAKAO BLIND RECRUITMENT
  | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [java](programmers/kako_17681.java) |
+ | Level ? | (2017년)KAKAO BLIND RECRUITMENT
+ | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [java](programmers/kako_17680.java) |
 
 </details>
