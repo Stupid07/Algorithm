@@ -227,13 +227,9 @@ D6
 |:-:|:-:|:-:|:-:|
 | Level 2 | 2018 윈터코딩 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](programmers/L2_49993.java) |
 | Level 2 | 찾아라 프로그래밍 마에스터 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](programmers/L2_1845.java) |
-| Level ? | (2017년)KAKAO BLIND RECRUITMENT
- | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [java](programmers/kako_17676.java) |
- | Level ? | (2017년)KAKAO BLIND RECRUITMENT
- | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [java](programmers/kako_17682.java) |
-| Level ? | (2017년)KAKAO BLIND RECRUITMENT
- | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [java](programmers/kako_17681.java) |
- | Level ? | (2017년)KAKAO BLIND RECRUITMENT
- | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [java](programmers/kako_17680.java) |
+| Level ? | (2017년)KAKAO BLIND RECRUITMENT | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [java](programmers/kako_17676.java) |
+| Level ? | (2017년)KAKAO BLIND RECRUITMENT | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [java](programmers/kako_17682.java) |
+| Level ? | (2017년)KAKAO BLIND RECRUITMENT | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [java](programmers/kako_17681.java) |
+| Level ? | (2017년)KAKAO BLIND RECRUITMENT | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [java](programmers/kako_17680.java) |
 
 </details>
