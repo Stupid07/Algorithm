@@ -46,7 +46,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | [c](baekjoon/2490.c) | 2493 | [탑](https://www.acmicpc.net/problem/2493) | [java](baekjoon/2493.java) |
 | 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | [java](baekjoon/2504.java) | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](baekjoon/2531.java) |
 | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [cpp(Clang)](baekjoon/2557.cpp) | 2558 | [A+B - 2](https://www.acmicpc.net/problem/2558) | [cpp](baekjoon/2558.cpp) |
-| 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Node.js](baekjoon/2562.js) | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [cpp](baekjoon/2577.cpp) |
+| 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Node.js](baekjoon/2562.js) | 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | [c](baekjoon/2566.cpp) |
+| 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [cpp](baekjoon/2577.cpp) |
 | 2581 | [소수](https://www.acmicpc.net/problem/2581) | [c](baekjoon/2581.c) | 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | [Node.js](baekjoon/2588.js) |
 | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | [java](baekjoon/2589.java) | 2596 | [비밀편지](https://www.acmicpc.net/problem/2596) | [java](baekjoon/2596.java) |
 | 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [cpp](baekjoon/2609.cpp) | 2615 | [오목](https://www.acmicpc.net/problem/2615) | [java](baekjoon/2615.java) |
@@ -59,6 +60,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [java](baekjoon/11729.java) |
 | 13565 | [침투](https://www.acmicpc.net/problem/13565) | [cpp](baekjoon/13565.cpp) | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) |
+| 16017 | [Telemarketer or not?](https://www.acmicpc.net/problem/16017) | [Ocaml](baekjoon/16017.ml) | 16430 | [제리와 톰](https://www.acmicpc.net/problem/16430) | [Ocaml](baekjoon/16430.ml) |
 | 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | [java](baekjoon/17069.java) | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [java](baekjoon/17070.java) |
 
 </details>
