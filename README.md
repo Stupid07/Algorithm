@@ -64,6 +64,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 13565 | [침투](https://www.acmicpc.net/problem/13565) | [cpp](baekjoon/13565.cpp) | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) |
 | 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | [Python3](baekjoon/15820.py) | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [java](baekjoon/15829.java) |
 | 16017 | [Telemarketer or not?](https://www.acmicpc.net/problem/16017) | [Ocaml](baekjoon/16017.ml) | 16430 | [제리와 톰](https://www.acmicpc.net/problem/16430) | [Ocaml](baekjoon/16430.ml) |
+| 16986 | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) | [Python3](baekjoon/16986.py) | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [Python3](baekjoon/16987.py) |
 | 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | [java](baekjoon/17069.java) | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [java](baekjoon/17070.java) |
 
 </details>
