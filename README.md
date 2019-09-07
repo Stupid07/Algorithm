@@ -173,6 +173,7 @@ D4
 | 7208 | [지도 칠하기 - User Problem](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlHcsEqf1YDFASG&categoryId=AWlHcsEqf1YDFASG&categoryType=CODE) | [java](swea/7208.java) |
 | 7250 | [탈출 - User Problem](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlq-Cvq6joDFASP&categoryId=AWlq-Cvq6joDFASP&categoryType=CODE) | [java](swea/7250.java) |
 | 7829 | [보물왕 태혁](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy&categoryId=AWtInr3auH0DFASy&categoryType=CODE) | [java](swea/7829.java) |
+| 8049 | [폭탄 감식반](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWv0_-j6aRsDFASy) | [java](swea/8049.java) |
 
 </details>
 
