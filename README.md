@@ -58,9 +58,9 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [cpp](baekjoon/2839.cpp) | 2845 | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | [c](baekjoon/2845.c) |
 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [Python3](baekjoon/2869.py) | 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [Node.js](baekjoon/3003.js) |
 | 3004 | [체스판 조각](https://www.acmicpc.net/problem/3004) | [Python3](baekjoon/3004.py) | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [Node.js](baekjoon/3052.js) |
-| 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/5988.js) |
-| 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) |
-| 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) |
+| 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [c](baekjoon/3460.c) | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/5988.js) |
+| 6679 | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679) | [Node.js](baekjoon/6679.js) | 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) |
+| 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [java](baekjoon/11729.java) |
 | 13565 | [침투](https://www.acmicpc.net/problem/13565) | [cpp](baekjoon/13565.cpp) | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) |
 | 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | [Python3](baekjoon/15820.py) | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [java](baekjoon/15829.java) |
