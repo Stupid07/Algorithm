@@ -54,7 +54,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2617 | [구슬 찾기](https://www.acmicpc.net/problem/2617) | [java](baekjoon/2617.java) | 2628 | [종이자르기](https://www.acmicpc.net/problem/2628) | [java](baekjoon/2628.java) |
 | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | [java](baekjoon/2636.java) | 2638 | [치즈](https://www.acmicpc.net/problem/2638) | [java](baekjoon/2638.java) |
 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [c](baekjoon/2675.c) | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [c](baekjoon/2739.c) |
-| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [java](baekjoon/2798.java) | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [cpp](baekjoon/2839.cpp) |
+| 2755 | [이번학기 평점은 몇점?](https://www.acmicpc.net/problem/2755) | [java](baekjoon/2755.java) | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [java](baekjoon/2798.java) |
+| 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [cpp](baekjoon/2839.cpp) | 2845 | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | [c](baekjoon/2845.c) |
 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [Python3](baekjoon/2869.py) | 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [Node.js](baekjoon/3003.js) |
 | 3004 | [체스판 조각](https://www.acmicpc.net/problem/3004) | [Python3](baekjoon/3004.py) | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [Node.js](baekjoon/3052.js) |
 | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/598888888888888888888888888888888888888888888888888888.js) |
