@@ -62,6 +62,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [c](baekjoon/3460.c) | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/5988.js) |
 | 6321 | [IBM 빼기 1](https://www.acmicpc.net/problem/6321) | [Python3](baekjoon/6321.py) | 6378 | [디지털 루트](https://www.acmicpc.net/problem/6378) | [Node.js](baekjoon/6378.js) |
 | 6679 | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679) | [Node.js](baekjoon/6679.js) | 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) |
+| 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 10886 | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [c](baekjoon/10886.c) |
 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [java](baekjoon/11729.java) |
