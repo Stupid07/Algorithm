@@ -44,7 +44,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2455 | [지능형 기차](https://www.acmicpc.net/problem/2455) | [c](baekjoon/2455.c) | 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | [java](baekjoon/2458.java) |
 | 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [c](baekjoon/2475.c) | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [c](baekjoon/2480.c) |
 | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | [c](baekjoon/2490.c) | 2493 | [탑](https://www.acmicpc.net/problem/2493) | [java](baekjoon/2493.java) |
-| 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | [java](baekjoon/2504.java) | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](baekjoon/2531.java) |
+| 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | [java](baekjoon/2504.java) |
+| 2530 | [인공지능 시계](https://www.acmicpc.net/problem/2530) | [Python3](baekjoon/2530.py) | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](baekjoon/2531.java) |
 | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [cpp(Clang)](baekjoon/2557.cpp) | 2558 | [A+B - 2](https://www.acmicpc.net/problem/2558) | [cpp](baekjoon/2558.cpp) |
 | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Node.js](baekjoon/2562.js) | 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | [c](baekjoon/2566.cpp) |
 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [cpp](baekjoon/2577.cpp) |
