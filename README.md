@@ -62,7 +62,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 3004 | [체스판 조각](https://www.acmicpc.net/problem/3004) | [Python3](baekjoon/3004.py) | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [Node.js](baekjoon/3052.js) |
 | 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [c](baekjoon/3460.c) | 5532 | [방학 숙제](https://www.acmicpc.net/problem/5532) | [Python3](baekjoon/5532.py) |
 | 5543 | [상근날드](https://www.acmicpc.net/problem/5543) | [Python3](baekjoon/5543.py) | 5565 | [영수증](https://www.acmicpc.net/problem/5565) | [Node.js](baekjoon/5565.js) |
-| 5596 | [시험 점수](https://www.acmicpc.net/problem/5596) | [Node.js]](baekjoon/5596.js) | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/5988.js) |
+| 5596 | [시험 점수](https://www.acmicpc.net/problem/5596) | [Node.js](baekjoon/5596.js) | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/5988.js) |
 | 6321 | [IBM 빼기 1](https://www.acmicpc.net/problem/6321) | [Python3](baekjoon/6321.py) | 6378 | [디지털 루트](https://www.acmicpc.net/problem/6378) | [Node.js](baekjoon/6378.js) |
 | 6679 | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679) | [Node.js](baekjoon/6679.js) | 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) |
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
