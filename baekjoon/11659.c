@@ -1,0 +1,1 @@
+main(){int n,m,i=1,d[100001];for(scanf("%d%d",&n,&m);i<=n;i++){scanf("%d",d+i);d[i]+=d[i-1];}for(;m;m--){scanf("%d%d",&n,&i);printf("%d\n",d[i]-d[n-1]);}}
