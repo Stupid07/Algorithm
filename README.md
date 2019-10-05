@@ -84,6 +84,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 16722 | [결! 합!](https://www.acmicpc.net/problem/16722) | [Python3](baekjoon/16722.py) | 16954 | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | [java](baekjoon/16954.java) |
 | 16986 | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) | [Python3](baekjoon/16986.py) | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [Python3](baekjoon/16987.py) |
 | 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | [java](baekjoon/17069.java) | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [java](baekjoon/17070.java) |
+| 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | [java](baekjoon/17472.java) |
 
 </details>
 
