@@ -18,6 +18,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [cpp](baekjoon/1000.cpp) | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | [cpp](baekjoon/1001.cpp) |
 | 1002 | [터렛](https://www.acmicpc.net/problem/1002) | [c](baekjoon/1002.c) | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [c](baekjoon/1003.c) |
+| 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | [java](baekjoon/1005.java) |
 | 1008 | [A/B](https://www.acmicpc.net/problem/1008) | [cpp](baekjoon/1008.cpp) | 1009 | [분산처리](https://www.acmicpc.net/problem/1009) | [cpp](baekjoon/1009.cpp) |
 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | [cpp](baekjoon/1026.cpp) [java](baekjoon/1026.java) | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [cpp](baekjoon/1037.cpp) |
 | 1065 | [한수](https://www.acmicpc.net/problem/1065) | [cpp](baekjoon/1065.cpp) | 1075 | [나누기](https://www.acmicpc.net/problem/1075) | [c](baekjoon/1075.c) |
