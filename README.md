@@ -38,6 +38,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [c](baekjoon/1978.c) | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [c](baekjoon/2156.c) |
 | 2163 | [초콜릿 자르기](https://www.acmicpc.net/problem/2163) | [Python3](baekjoon/2163.py) | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | [c](baekjoon/2193.c) |
 | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [java](baekjoon/2206.java) | 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [c](baekjoon/2231.c) |
+| 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | [java](baekjoon/2252.java) |
 | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [c](baekjoon/2292.c) | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [c](baekjoon/2309.c) |
 | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [c](baekjoon/2438.c) | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [c](baekjoon/2439.c) |
 | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | [c](baekjoon/2440.c) | 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [c](baekjoon/2441.c) |
