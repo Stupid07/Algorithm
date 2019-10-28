@@ -135,6 +135,7 @@ D3
 
 | 번호 | 문제 | 코드 |
 |:-:|:-:|:-:|
+| 1206 | [View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE) | [java](swea/1206.java) |
 | 1208 | [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh&categoryId=AV139KOaABgCFAYh&categoryType=CODE) | [java](swea/1208.java) |
 | 1213 | [String](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE) | [java](swea/1213.java) |
 | 1225 | [암호생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE) | [java](swea/1225.java) |
