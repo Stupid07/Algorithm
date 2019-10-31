@@ -70,6 +70,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 10886 | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [c](baekjoon/10886.c) |
+| 10987 | [모음의 개수](https://www.acmicpc.net/problem/10987) | [java](baekjoon/10987.java) |
 | 10988 | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | [Python3](baekjoon/10988.py) | 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [c](baekjoon/10989.c) |
 | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | [cpp](baekjoon/10998.cpp) | 11021 | [A+B - 7](https://www.acmicpc.net/problem/11021) | [Ocaml](baekjoon/11021.ml) |
 | 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | [Ocaml](baekjoon/11022.ml) | 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | [c](baekjoon/11048.c) |
