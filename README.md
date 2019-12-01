@@ -69,6 +69,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 6679 | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679) | [Node.js](baekjoon/6679.js) | 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) |
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) |
+| 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [cpp](baekjoon/10869.cpp) | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [c](baekjoon/10871.c) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 10886 | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [c](baekjoon/10886.c) |
 | 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [Ocaml](baekjoon/10950.ml) | 10951 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [Python3](baekjoon/10951.py) |
 | 10952 | [A+B - 5](https://www.acmicpc.net/problem/10952) | [cpp](baekjoon/10952.cpp) | 10987 | [모음의 개수](https://www.acmicpc.net/problem/10987) | [java](baekjoon/10987.java) |
