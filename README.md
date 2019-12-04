@@ -68,6 +68,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 6321 | [IBM 빼기 1](https://www.acmicpc.net/problem/6321) | [Python3](baekjoon/6321.py) | 6378 | [디지털 루트](https://www.acmicpc.net/problem/6378) | [Node.js](baekjoon/6378.js) |
 | 6679 | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679) | [Node.js](baekjoon/6679.js) | 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) |
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
+| 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Python3](baekjoon/10799.py) | 10801 | [카드게임](https://www.acmicpc.net/problem/10801) | [Python3](baekjoon/10801.py) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [c](baekjoon/10809.c) |
 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [java](baekjoon/10815.java) | 10817 | [세 수](https://www.acmicpc.net/problem/10817) | [cpp](baekjoon/10817.cpp) |
 | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [cpp](baekjoon/10844.cpp) |
