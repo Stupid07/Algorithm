@@ -68,6 +68,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 6321 | [IBM 빼기 1](https://www.acmicpc.net/problem/6321) | [Python3](baekjoon/6321.py) | 6378 | [디지털 루트](https://www.acmicpc.net/problem/6378) | [Node.js](baekjoon/6378.js) |
 | 6679 | [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679) | [Node.js](baekjoon/6679.js) | 7326 | [Number Steps](https://www.acmicpc.net/problem/7326) | [c](baekjoon/7326.c) |
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [c](baekjoon/7568.c) | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [java](baekjoon/7569.java) |
+| 8393 | [합](https://www.acmicpc.net/problem/8393) | [c](baekjoon/8393.c) | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [cpp](baekjoon/8958.cpp) |
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Python3](baekjoon/10799.py) | 10801 | [카드게임](https://www.acmicpc.net/problem/10801) | [Python3](baekjoon/10801.py) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [c](baekjoon/10809.c) |
