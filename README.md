@@ -70,6 +70,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [c](baekjoon/7568.c) | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [java](baekjoon/7569.java) |
 | 8393 | [합](https://www.acmicpc.net/problem/8393) | [c](baekjoon/8393.c) | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [cpp](baekjoon/8958.cpp) |
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 8983 | [사냥꾼](https://www.acmicpc.net/problem/8983) | [java](baekjoon/8983.java) |
+| 10172 | [개](https://www.acmicpc.net/problem/10172) | [c](baekjoon/10172.c) | 10219 | [Meats On The Grill](https://www.acmicpc.net/problem/10219) | [c](baekjoon/10219.c) |
 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [c](baekjoon/10250.c) | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [cpp](baekjoon/10430.cpp) |
 | 10718 | [We love kriii](https://www.acmicpc.net/problem/10718) | [c](baekjoon/10718.c) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Python3](baekjoon/10799.py) | 10801 | [카드게임](https://www.acmicpc.net/problem/10801) | [Python3](baekjoon/10801.py) |
