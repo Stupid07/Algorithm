@@ -70,6 +70,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [c](baekjoon/7568.c) | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [java](baekjoon/7569.java) |
 | 8393 | [합](https://www.acmicpc.net/problem/8393) | [c](baekjoon/8393.c) | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [cpp](baekjoon/8958.cpp) |
 | 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | [Node.js](baekjoon/8979.js) | 8983 | [사냥꾼](https://www.acmicpc.net/problem/8983) | [java](baekjoon/8983.java) |
+| 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [c](baekjoon/9498.c) | 9933 | [민균이의 비밀번호](https://www.acmicpc.net/problem/9933) | [Python3](baekjoon/9933.py) |
 | 10039 | [평균 점수](https://www.acmicpc.net/problem/10039) | [cpp](baekjoon/10039.cpp) | 10171 | [고양이](https://www.acmicpc.net/problem/10171) | [Ocaml](baekjoon/10171.ml) |
 | 10172 | [개](https://www.acmicpc.net/problem/10172) | [c](baekjoon/10172.c) | 10219 | [Meats On The Grill](https://www.acmicpc.net/problem/10219) | [c](baekjoon/10219.c) |
 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [c](baekjoon/10250.c) | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [cpp](baekjoon/10430.cpp) |
