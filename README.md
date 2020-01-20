@@ -62,7 +62,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [cpp](baekjoon/2839.cpp) | 2845 | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | [c](baekjoon/2845.c) |
 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [Python3](baekjoon/2869.py) | 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [Node.js](baekjoon/3003.js) |
 | 3004 | [체스판 조각](https://www.acmicpc.net/problem/3004) | [Python3](baekjoon/3004.py) | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [Node.js](baekjoon/3052.js) |
-| 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [c](baekjoon/3460.c) | 5532 | [방학 숙제](https://www.acmicpc.net/problem/5532) | [Python3](baekjoon/5532.py) |
+| 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [c](baekjoon/3460.c) | 4641 | [Doubles](https://www.acmicpc.net/problem/4641) | [Node.js](baekjoon/4641.js) |
+| 5532 | [방학 숙제](https://www.acmicpc.net/problem/5532) | [Python3](baekjoon/5532.py) |
 | 5543 | [상근날드](https://www.acmicpc.net/problem/5543) | [Python3](baekjoon/5543.py) | 5565 | [영수증](https://www.acmicpc.net/problem/5565) | [Node.js](baekjoon/5565.js) |
 | 5596 | [시험 점수](https://www.acmicpc.net/problem/5596) | [Node.js](baekjoon/5596.js) | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [Node.js](baekjoon/5988.js) |
 | 6321 | [IBM 빼기 1](https://www.acmicpc.net/problem/6321) | [Python3](baekjoon/6321.py) | 6378 | [디지털 루트](https://www.acmicpc.net/problem/6378) | [Node.js](baekjoon/6378.js) |
