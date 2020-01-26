@@ -48,9 +48,9 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | [c](baekjoon/2490.c) | 2493 | [탑](https://www.acmicpc.net/problem/2493) | [java](baekjoon/2493.java) |
 | 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | [java](baekjoon/2504.java) | 2525 | [오븐 시계](https://www.acmicpc.net/problem/2504) | [Python3](baekjoon/2525.py) |
 | 2530 | [인공지능 시계](https://www.acmicpc.net/problem/2530) | [Python3](baekjoon/2530.py) | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | [java](baekjoon/2531.java) |
-| 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [cpp(Clang)](baekjoon/2557.cpp) | 2558 | [A+B - 2](https://www.acmicpc.net/problem/2558) | [cpp](baekjoon/2558.cpp) |
-| 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Node.js](baekjoon/2562.js) | 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | [c](baekjoon/2566.cpp) |
-| 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [cpp](baekjoon/2577.cpp) |
+| 2548 | [대표 자연수](https://www.acmicpc.net/problem/2548) | [Python3](baekjoon/2548.py) | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [cpp(Clang)](baekjoon/2557.cpp) |
+| 2558 | [A+B - 2](https://www.acmicpc.net/problem/2558) | [cpp](baekjoon/2558.cpp) | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Node.js](baekjoon/2562.js) |
+| 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | [c](baekjoon/2566.cpp) | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [cpp](baekjoon/2577.cpp) |
 | 2581 | [소수](https://www.acmicpc.net/problem/2581) | [c](baekjoon/2581.c) | 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | [Node.js](baekjoon/2588.js) |
 | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | [java](baekjoon/2589.java) | 2596 | [비밀편지](https://www.acmicpc.net/problem/2596) | [java](baekjoon/2596.java) |
 | 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [cpp](baekjoon/2609.cpp) | 2615 | [오목](https://www.acmicpc.net/problem/2615) | [java](baekjoon/2615.java) |
