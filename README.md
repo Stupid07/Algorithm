@@ -282,6 +282,8 @@ D6
 
 | 레벨 | 분류 | 문제 | 코드 |
 |:-:|:-:|:-:|:-:|
+| Level 1 | SELECT | [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034) | [SQL](programmers/L1_59034.sql) |
+| Level 1 | SELECT | [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035) | [SQL](programmers/L1_59035.sql) |
 | Level 2 | 2018 윈터코딩 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [java](programmers/L2_49993.java) |
 | Level 2 | 찾아라 프로그래밍 마에스터 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [java](programmers/L2_1845.java) |
 | Level 2 | 완전탐색 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [java](programmers/L2_42839.java) |
