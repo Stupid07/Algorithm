@@ -33,7 +33,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | [c](baekjoon/1475.c) [java](baekjoon/1475.java) | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [Node.js](baekjoon/1541.js) |
 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [cpp](baekjoon/1546.cpp) | 1547 | [공](https://www.acmicpc.net/problem/1547) | [c](baekjoon/1547.c) |
 | 1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [c](baekjoon/1676.c) | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [java](baekjoon/1697.java) |
-| 1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [Python3](baekjoon/1712.py) |
+| 1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [Python3](baekjoon/1712.py) | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [java](baekjoon/1920.java) |
 | 1924 | [2007년](https://www.acmicpc.net/problem/1924) | [cpp](baekjoon/1924.cpp) | 1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | [java](baekjoon/1927.java) |
 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [c](baekjoon/1978.c) | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [c](baekjoon/2156.c) |
 | 2163 | [초콜릿 자르기](https://www.acmicpc.net/problem/2163) | [Python3](baekjoon/2163.py) | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | [c](baekjoon/2193.c) |
