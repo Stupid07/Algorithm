@@ -100,6 +100,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [java](baekjoon/11729.java) | 11866 | [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866) | [java](baekjoon/11866.java) |
 | 11966 | [2의 제곱인가?](https://www.acmicpc.net/problem/11966) | [c](baekjoon/11966.c) | 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [java](baekjoon/12851.java) |
 | 13458 | [시험 감독](https://www.acmicpc.net/problem/13458) | [java](baekjoon/13458.java) | 13565 | [침투](https://www.acmicpc.net/problem/13565) | [cpp](baekjoon/13565.cpp) |
+| 13752 | [히스토그램](https://www.acmicpc.net/problem/13752) | [Python3](baekjoon/13752.py) |
 | 14489 | [치킨 두 마리 (...)](https://www.acmicpc.net/problem/14489) | [Ocaml](baekjoon/14489.ml) | 14709 | [여우 사인](https://www.acmicpc.net/problem/14709) | [c](baekjoon/14709.c) |
 | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](baekjoon/14888.java) | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [c](baekjoon/15552.c) |
 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) | 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | [Python3](baekjoon/15820.py) |
