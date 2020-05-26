@@ -80,7 +80,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 10039 | [평균 점수](https://www.acmicpc.net/problem/10039) | [cpp](baekjoon/10039.cpp) | 10171 | [고양이](https://www.acmicpc.net/problem/10171) | [Ocaml](baekjoon/10171.ml) |
 | 10172 | [개](https://www.acmicpc.net/problem/10172) | [c](baekjoon/10172.c) | 10219 | [Meats On The Grill](https://www.acmicpc.net/problem/10219) | [c](baekjoon/10219.c) |
 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [c](baekjoon/10250.c) | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [cpp](baekjoon/10430.cpp) |
-| 10718 | [We love kriii](https://www.acmicpc.net/problem/10718) | [c](baekjoon/10718.c) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
+| 10718 | [We love kriii](https://www.acmicpc.net/problem/10718) | [c](baekjoon/10718.c) | 10757 | [큰 수 A+B](https://www.acmicpc.net/problem/10757) | [Python3](baekjoon/10757.py) |
+| 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Python3](baekjoon/10799.py) | 10801 | [카드게임](https://www.acmicpc.net/problem/10801) | [Python3](baekjoon/10801.py) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [c](baekjoon/10809.c) |
 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [java](baekjoon/10815.java) | 10817 | [세 수](https://www.acmicpc.net/problem/10817) | [cpp](baekjoon/10817.cpp) |
@@ -100,8 +101,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [java](baekjoon/11729.java) | 11866 | [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866) | [java](baekjoon/11866.java) |
 | 11966 | [2의 제곱인가?](https://www.acmicpc.net/problem/11966) | [c](baekjoon/11966.c) | 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [java](baekjoon/12851.java) |
 | 13458 | [시험 감독](https://www.acmicpc.net/problem/13458) | [java](baekjoon/13458.java) | 13565 | [침투](https://www.acmicpc.net/problem/13565) | [cpp](baekjoon/13565.cpp) |
-| 13752 | [히스토그램](https://www.acmicpc.net/problem/13752) | [Python3](baekjoon/13752.py) |
-| 14489 | [치킨 두 마리 (...)](https://www.acmicpc.net/problem/14489) | [Ocaml](baekjoon/14489.ml) | 14709 | [여우 사인](https://www.acmicpc.net/problem/14709) | [c](baekjoon/14709.c) |
+| 13752 | [히스토그램](https://www.acmicpc.net/problem/13752) | [Python3](baekjoon/13752.py) | 14489 | [치킨 두 마리 (...)](https://www.acmicpc.net/problem/14489) | [Ocaml](baekjoon/14489.ml) |
+| 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [Bash](baekjoon/14681.sh) | 14709 | [여우 사인](https://www.acmicpc.net/problem/14709) | [c](baekjoon/14709.c) |
 | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](baekjoon/14888.java) | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [c](baekjoon/15552.c) |
 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) | 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | [Python3](baekjoon/15820.py) |
 | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [java](baekjoon/15829.java) | 15904 | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [Node.js](baekjoon/15904.js) |
