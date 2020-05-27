@@ -95,7 +95,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | [Ocaml](baekjoon/11022.ml) | 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | [c](baekjoon/11048.c) |
 | 11050 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [cpp](baekjoon/11050.cpp) | 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [java](baekjoon/11508.java) |
 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [cpp](baekjoon/11654.cpp) | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [Python3](baekjoon/11656.py) |
-| 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [c](baekjoon/11659.c) | 11718 | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [c](baekjoon/11718.c) |
+| 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [c](baekjoon/11659.c) | 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [Python3](baekjoon/11660.py) |
+| 11718 | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [c](baekjoon/11718.c) |
 | 11719 | [그대로 출력하기 2](https://www.acmicpc.net/problem/11719) | [c](baekjoon/11719.c) | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [cpp](baekjoon/11720.cpp) |
 | 11721 | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) | [cpp](baekjoon/11721.cpp) | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [java](baekjoon/11726.java) |
 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [java](baekjoon/11729.java) | 11866 | [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866) | [java](baekjoon/11866.java) |
