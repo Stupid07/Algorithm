@@ -26,9 +26,10 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 1100 | [하얀 칸](https://www.acmicpc.net/problem/1100) | [c](baekjoon/1100.c) | 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [c](baekjoon/1110.c) |
 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [cpp](baekjoon/1149.cpp) | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [c](baekjoon/1152.c) |
 | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [c](baekjoon/1157.c) | 1159 | [농구 경기](https://www.acmicpc.net/problem/1159) | [Node.js](baekjoon/1159.js) |
-| 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [c](baekjoon/1193.c) | 1237 | [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237) | [cpp](baekjoon/1237.cpp) |
-| 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [java](baekjoon/1260.java) | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [c](baekjoon/1316.c) |
-| 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Python3](baekjoon/1330.py) | 1331 | [나이트 투어](https://www.acmicpc.net/problem/1331) | [java](baekjoon/1331.java) |
+| 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [Node.js](baekjoon/1181.js) | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [c](baekjoon/1193.c) |
+| 1237 | [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237) | [cpp](baekjoon/1237.cpp) | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [java](baekjoon/1260.java) |
+| 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [c](baekjoon/1316.c) | 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Python3](baekjoon/1330.py) |
+| 1331 | [나이트 투어](https://www.acmicpc.net/problem/1331) | [java](baekjoon/1331.java) | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [Node.js](baekjoon/1406.js) |
 | 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [c](baekjoon/1427.c) | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [c](baekjoon/1463.java) |
 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | [c](baekjoon/1475.c) [java](baekjoon/1475.java) | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [Node.js](baekjoon/1541.js) |
 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [cpp](baekjoon/1546.cpp) | 1547 | [공](https://www.acmicpc.net/problem/1547) | [c](baekjoon/1547.c) |
