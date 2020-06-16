@@ -85,7 +85,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 10172 | [개](https://www.acmicpc.net/problem/10172) | [c](baekjoon/10172.c) | 10219 | [Meats On The Grill](https://www.acmicpc.net/problem/10219) | [c](baekjoon/10219.c) |
 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [c](baekjoon/10250.c) | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [cpp](baekjoon/10430.cpp) |
 | 10718 | [We love kriii](https://www.acmicpc.net/problem/10718) | [c](baekjoon/10718.c) | 10757 | [큰 수 A+B](https://www.acmicpc.net/problem/10757) | [Python3](baekjoon/10757.py) |
-| 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
+| 10773 | [제로](https://www.acmicpc.net/problem/10773) | [java](baekjoon/10773.java) | 10797 | [10부제](https://www.acmicpc.net/problem/10797) | [Ocaml](baekjoon/10797.ml) |
 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Python3](baekjoon/10799.py) | 10801 | [카드게임](https://www.acmicpc.net/problem/10801) | [Python3](baekjoon/10801.py) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [c](baekjoon/10809.c) |
 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [java](baekjoon/10815.java) | 10817 | [세 수](https://www.acmicpc.net/problem/10817) | [cpp](baekjoon/10817.cpp) |
@@ -99,7 +99,7 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | [cpp](baekjoon/10998.cpp) | 11021 | [A+B - 7](https://www.acmicpc.net/problem/11021) | [Ocaml](baekjoon/11021.ml) |
 | 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | [Ocaml](baekjoon/11022.ml) | 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | [c](baekjoon/11048.c) |
 | 11050 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [cpp](baekjoon/11050.cpp) | 11399 | [ATM](https://www.acmicpc.net/problem/11399) | [Node.js](baekjoon/11399.js) |
-| 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [java](baekjoon/11508.java) |
+| 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [java](baekjoon/11508.java) | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [Node.js](baekjoon/11650.js) |
 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [cpp](baekjoon/11654.cpp) | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [Python3](baekjoon/11656.py) |
 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [c](baekjoon/11659.c) | 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [Python3](baekjoon/11660.py) |
 | 11718 | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [c](baekjoon/11718.c) |
