@@ -19,7 +19,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [cpp](baekjoon/1000.cpp) | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | [cpp](baekjoon/1001.cpp) |
 | 1002 | [터렛](https://www.acmicpc.net/problem/1002) | [c](baekjoon/1002.c) | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [c](baekjoon/1003.c) |
 | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | [java](baekjoon/1005.java) | 1008 | [A/B](https://www.acmicpc.net/problem/1008) | [cpp](baekjoon/1008.cpp) |
-| 1009 | [분산처리](https://www.acmicpc.net/problem/1009) | [cpp](baekjoon/1009.cpp) | 1026 | [보물](https://www.acmicpc.net/problem/1026) | [cpp](baekjoon/1026.cpp) [java](baekjoon/1026.java) |
+| 1009 | [분산처리](https://www.acmicpc.net/problem/1009) | [cpp](baekjoon/1009.cpp) | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [java](baekjoon/1012.java) |
+| 1026 | [보물](https://www.acmicpc.net/problem/1026) | [cpp](baekjoon/1026.cpp) [java](baekjoon/1026.java) |
 | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [cpp](baekjoon/1037.cpp) | 1065 | [한수](https://www.acmicpc.net/problem/1065) | [cpp](baekjoon/1065.cpp) |
 | 1075 | [나누기](https://www.acmicpc.net/problem/1075) | [c](baekjoon/1075.c) | 1076 | [저항](https://www.acmicpc.net/problem/1076) | [c](baekjoon/1076.c) |
 | 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [c](baekjoon/1085.c) | 1094 | [막대기](https://www.acmicpc.net/problem/1094) | [c](baekjoon/1094.c) |
@@ -43,7 +44,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | [java](baekjoon/2252.java) | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [c](baekjoon/2292.c) |
 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [c](baekjoon/2309.c) | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [c](baekjoon/2438.c) |
 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [c](baekjoon/2439.c) | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | [c](baekjoon/2440.c) |
-| 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [c](baekjoon/2441.c) | 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | [Python 2](baekjoon/2444.py) |
+| 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [c](baekjoon/2441.c) | 2442 | [별 찍기 - 5](https://www.acmicpc.net/problem/2442) | [Python3](baekjoon/2442.py) |
+| 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | [Python 2](baekjoon/2444.py) |
 | 2446 | [별 찍기 - 9](https://www.acmicpc.net/problem/2446) | [Python3](baekjoon/2446.py) | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [Python3](baekjoon/2447.py) |
 | 2455 | [지능형 기차](https://www.acmicpc.net/problem/2455) | [c](baekjoon/2455.c) | 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | [java](baekjoon/2458.java) |
 | 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [c](baekjoon/2475.c) | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [c](baekjoon/2480.c) |
