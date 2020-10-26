@@ -92,7 +92,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Python3](baekjoon/10799.py) | 10801 | [카드게임](https://www.acmicpc.net/problem/10801) | [Python3](baekjoon/10801.py) |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [c](baekjoon/10809.c) |
 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [java](baekjoon/10815.java) | 10817 | [세 수](https://www.acmicpc.net/problem/10817) | [cpp](baekjoon/10817.cpp) |
-| 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [cpp](baekjoon/10844.cpp) |
+| 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) | 10833 | [사과](https://www.acmicpc.net/problem/10833) | [Kotlin](baekjoon/10833.kt) |
+| 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [cpp](baekjoon/10844.cpp) |
 | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [cpp](baekjoon/10869.cpp) | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [c](baekjoon/10871.c) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 10886 | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [c](baekjoon/10886.c) |
 | 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [Ocaml](baekjoon/10950.ml) | 10951 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [Python3](baekjoon/10951.py) |
