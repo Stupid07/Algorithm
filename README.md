@@ -28,7 +28,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [cpp](baekjoon/1149.cpp) | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [c](baekjoon/1152.c) |
 | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [c](baekjoon/1157.c) | 1159 | [농구 경기](https://www.acmicpc.net/problem/1159) | [Node.js](baekjoon/1159.js) |
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [Node.js](baekjoon/1181.js) | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [c](baekjoon/1193.c) |
-| 1237 | [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237) | [cpp](baekjoon/1237.cpp) | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [java](baekjoon/1260.java) |
+| 1237 | [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237) | [cpp](baekjoon/1237.cpp) | 1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [java](baekjoon/1259.java) |
+| 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [java](baekjoon/1260.java) |
 | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [c](baekjoon/1316.c) | 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Python3](baekjoon/1330.py) |
 | 1331 | [나이트 투어](https://www.acmicpc.net/problem/1331) | [java](baekjoon/1331.java) | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [Node.js](baekjoon/1406.js) |
 | 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [c](baekjoon/1427.c) | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [c](baekjoon/1463.java) |
@@ -93,8 +94,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python3](baekjoon/10808.py) | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [c](baekjoon/10809.c) |
 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [java](baekjoon/10815.java) | 10817 | [세 수](https://www.acmicpc.net/problem/10817) | [cpp](baekjoon/10817.cpp) |
 | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [Node.js](baekjoon/10818.js) | 10833 | [사과](https://www.acmicpc.net/problem/10833) | [Kotlin](baekjoon/10833.kt) |
-| 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [cpp](baekjoon/10844.cpp) |
-| 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [cpp](baekjoon/10869.cpp) | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [c](baekjoon/10871.c) |
+| 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [cpp](baekjoon/10844.cpp) | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [cpp](baekjoon/10869.cpp) |
+| 10870 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [Kotlin](baekjoon/10870.kt) | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [c](baekjoon/10871.c) |
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [Ocaml](baekjoon/10872.ml) | 10886 | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [c](baekjoon/10886.c) |
 | 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [Ocaml](baekjoon/10950.ml) | 10951 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [Python3](baekjoon/10951.py) |
 | 10952 | [A+B - 5](https://www.acmicpc.net/problem/10952) | [cpp](baekjoon/10952.cpp) | 10987 | [모음의 개수](https://www.acmicpc.net/problem/10987) | [java](baekjoon/10987.java) |
@@ -117,7 +118,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [Node.js](baekjoon/14501.js) |
 | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [Bash](baekjoon/14681.sh) | 14709 | [여우 사인](https://www.acmicpc.net/problem/14709) | [c](baekjoon/14709.c) |
 | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [java](baekjoon/14888.java) | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [c](baekjoon/15552.c) |
-| 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) | 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | [Python3](baekjoon/15820.py) |
+| 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [java](baekjoon/15596.java) | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | [Kotlin](baekjoon/15649.kt) |
+| 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | [Python3](baekjoon/15820.py) |
 | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [java](baekjoon/15829.java) | 15904 | [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) | [Node.js](baekjoon/15904.js) |
 | 15953 | [상금 헌터](https://www.acmicpc.net/problem/15953) | [c](baekjoon/15953.c) | 15961 | [회전 초밥](https://www.acmicpc.net/problem/15961) | [java](baekjoon/15961.java) |
 | 16017 | [Telemarketer or not?](https://www.acmicpc.net/problem/16017) | [Ocaml](baekjoon/16017.ml) | 16430 | [제리와 톰](https://www.acmicpc.net/problem/16430) | [Ocaml](baekjoon/16430.ml) |
