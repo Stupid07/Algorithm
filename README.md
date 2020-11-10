@@ -61,8 +61,8 @@ SW Expert Academy([swexpertacademy.com](https://swexpertacademy.com/main/main.do
 | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | [java](baekjoon/2589.java) | 2596 | [비밀편지](https://www.acmicpc.net/problem/2596) | [java](baekjoon/2596.java) |
 | 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [cpp](baekjoon/2609.cpp) | 2615 | [오목](https://www.acmicpc.net/problem/2615) | [java](baekjoon/2615.java) |
 | 2617 | [구슬 찾기](https://www.acmicpc.net/problem/2617) | [java](baekjoon/2617.java) | 2628 | [종이자르기](https://www.acmicpc.net/problem/2628) | [java](baekjoon/2628.java) |
-| 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [java](baekjoon/2630.java) |
-| 2636 | [치즈](https://www.acmicpc.net/problem/2636) | [java](baekjoon/2636.java) | 2638 | [치즈](https://www.acmicpc.net/problem/2638) | [java](baekjoon/2638.java) |
+| 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [java](baekjoon/2630.java) | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | [java](baekjoon/2636.java) |
+| 2638 | [치즈](https://www.acmicpc.net/problem/2638) | [java](baekjoon/2638.java) | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [Kotlin](baekjoon/2667.kt) |
 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [c](baekjoon/2675.c) | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [c](baekjoon/2739.c) |
 | 2755 | [이번학기 평점은 몇점?](https://www.acmicpc.net/problem/2755) | [java](baekjoon/2755.java) | 2783 | [삼각김밥](https://www.acmicpc.net/problem/2783) | [Node.js](baekjoon/2783.js) |
 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [java](baekjoon/2798.java) | 2822 | [점수 계산](https://www.acmicpc.net/problem/2822) | [Python3](baekjoon/2822.py) |
